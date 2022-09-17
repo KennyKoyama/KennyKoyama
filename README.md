@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KennyKoyama](https://github.com/KennyKoyama)
 
-- 📫 How to reach me **kennysk1982@gmail.com**
 
 <h1></h1>
 
