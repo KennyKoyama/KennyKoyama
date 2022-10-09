@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KennyKoyama](https://github.com/KennyKoyama)
 
+- You can see my completed challenges at <a href="https://www.hackerrank.com/kennykoyama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kennykoyama" height="30" width="40" />HackerRank</a>
+
 
 <h1></h1>
 
