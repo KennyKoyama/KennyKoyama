@@ -9,7 +9,7 @@
 
 - You can see my completed challenges at[<img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="kennykoyama" height="12" width="130" />](https://www.hackerrank.com/kennykoyama)
 
-<img align="center" src="https://octodex.github.com/images/baracktocat.jpg" alt="kennykoyama" height="100" width="100" />
+<img align="center" src="https://octodex.github.com/images/baracktocat.jpg" alt="kennykoyama" height="200" width="200" />
 
 <h1></h1>
 
@@ -22,13 +22,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/kennykoyama" target="blank">
-    <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="kennykoyama"/>
+    <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev blog"/>
   </a>
   <a href="https://www.hackerrank.com/kennykoyama" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="kennykoyama"/>
+    <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
   </a>
   <a href="https://medium.com/@kennykoyama" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@kennykoyama"/>
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium blog"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kenny-koyama/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
 
