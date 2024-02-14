@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 Hello, I'm Kenny Koyama</h1>
-<h3 align="center">Studying Web Dev @ <img align="center" src="https://www.betrybe.com/static/images/logo-negative-green.svg" alt="kennykoyama" height="75" width="85" />!</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <h1></h1>
 
-- 🌱 I’m currently on Module 2/4, learning Front-end @  [<img align="center" src="https://www.betrybe.com/static/images/logo-negative-green.svg" alt="kennykoyama" height="55" width="65" />](https://www.betrybe.com/)
+- 🌱 I'm currently creating personal projects, the most recent being a native app for iOS and Android created with React Native, Expo, Zustand, TanStack Query, Axios, Reanimated and TypeScript. Now I'm developing a RESTful API using ASP.NET Core Web API, Identity, JWT and C#.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/KennyKoyama)
 
