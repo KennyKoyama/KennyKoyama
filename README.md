@@ -13,12 +13,6 @@
 
 <h1></h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennykoyama&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="kennykoyama" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennykoyama&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="kennykoyama" /></p>
-
-<h1></h1>
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/kennykoyama" target="blank">
